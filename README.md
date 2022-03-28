@@ -16,7 +16,7 @@ Time to deploy
 
 ## How To Contribute
 
-Always
+Always fork this
 
 ### Copyright
 
